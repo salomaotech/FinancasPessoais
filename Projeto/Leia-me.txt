@@ -5,3 +5,5 @@ Requisitos:
 
 Observações:
 1 - O projeto é feito em NetBeans 12.5 em cima do Java 8.
+2 - O JDK pode ser baixado em https://www.azul.com/downloads/?package=jdk
+3 - Pode ser usado outro JDK também.
