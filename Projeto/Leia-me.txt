@@ -1,0 +1,7 @@
+Requisitos:
+1 - Instalar o Mysql server (usuario: root, senha: 12345678).
+2 - Adicionar as dependências ao classpath da IDE.
+
+
+Observações:
+1 - O projeto é feito em NetBeans 12.5 em cima do Java 8.
